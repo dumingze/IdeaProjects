@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TE.iml" filepath="$PROJECT_DIR$/TE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday3/workday3.iml" filepath="$PROJECT_DIR$/../workday3/workday3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday4/workday4.iml" filepath="$PROJECT_DIR$/../workday4/workday4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday5/workday5.iml" filepath="$PROJECT_DIR$/../workday5/workday5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday6/workday6.iml" filepath="$PROJECT_DIR$/../workday6/workday6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday7/workday7.iml" filepath="$PROJECT_DIR$/../workday7/workday7.iml" />
+    </modules>
+  </component>
+</project>
