@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="121833b5-47dc-49e4-a188-9482c160907a" name="Default Changelist" comment="" />
+    <list default="true" id="121833b5-47dc-49e4-a188-9482c160907a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../workday10/src/com/cskaoyan/a/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../workday10/src/com/cskaoyan/b/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../workday10/src/com/cskaoyan/b/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../workday10/src/com/dmz/zz/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../workday10/src/com/dmz/zz/Work1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../workday10/workday10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../workday8/src/Work1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../workday8/src/Work2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../workday8/src/Work3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../workday8/workday8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../workday9/src/com/dmz/zrw/Work1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,30 +25,56 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../workday7/src/com/dmz/zz/ThreeDimensionalArray.java">
+        <entry file="file://$PROJECT_DIR$/../workday10/src/com/cskaoyan/a/MyClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            <state relative-caret-position="45">
+              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="5" selection-end-column="5" />
+              <folding>
+                <element signature="e#71#72#0" expanded="true" />
+                <element signature="e#92#93#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../workday7/src/com/dmz/zz/MatrixMultiplication.java">
+        <entry file="file://$PROJECT_DIR$/../workday10/src/com/dmz/zz/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="43" column="48" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
+            <state relative-caret-position="60">
+              <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../workday7/src/com/dmz/zz/Test.java">
+        <entry file="file://$PROJECT_DIR$/../workday10/src/com/dmz/zz/Work1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-47">
+              <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../workday10/src/com/cskaoyan/b/MyClass.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+              <folding>
+                <element signature="e#72#73#0" expanded="true" />
+                <element signature="e#112#113#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../workday10/src/com/cskaoyan/b/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -47,6 +88,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -71,6 +115,17 @@
         <option value="$PROJECT_DIR$/../workday7/src/com/dmz/zz/ThreeDimensionalArray.java" />
         <option value="$PROJECT_DIR$/../workday7/src/com/dmz/zz/MatrixMultiplication.java" />
         <option value="$PROJECT_DIR$/../workday7/src/com/dmz/zz/Test.java" />
+        <option value="$PROJECT_DIR$/../workdaay8/src/com/dmz/zz/Work1.java" />
+        <option value="$PROJECT_DIR$/../workday8/src/Work1.java" />
+        <option value="$PROJECT_DIR$/../workday8/src/Work2.java" />
+        <option value="$PROJECT_DIR$/../workday8/src/Work3.java" />
+        <option value="$PROJECT_DIR$/../workday9/src/com/dmz/zrw/Student.java" />
+        <option value="$PROJECT_DIR$/../workday9/src/com/dmz/zrw/Work1.java" />
+        <option value="$PROJECT_DIR$/../workday10/src/com/dmz/zz/Student.java" />
+        <option value="$PROJECT_DIR$/../workday10/src/com/cskaoyan/a/MyClass.java" />
+        <option value="$PROJECT_DIR$/../workday10/src/com/cskaoyan/b/MyClass.java" />
+        <option value="$PROJECT_DIR$/../workday10/src/com/cskaoyan/b/Test.java" />
+        <option value="$PROJECT_DIR$/../workday10/src/com/dmz/zz/Work1.java" />
       </list>
     </option>
   </component>
@@ -79,28 +134,61 @@
     <option name="width" value="1280" />
     <option name="height" value="740" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="TE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workday7" type="462c0819:PsiDirectoryNode" />
+              <item name="workday10" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workday7" type="462c0819:PsiDirectoryNode" />
+              <item name="workday10" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workday7" type="462c0819:PsiDirectoryNode" />
+              <item name="workday10" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workday10" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="cskaoyan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workday10" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="cskaoyan" type="462c0819:PsiDirectoryNode" />
+              <item name="b" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workday10" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dmz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workday10" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dmz" type="462c0819:PsiDirectoryNode" />
               <item name="zz" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -111,13 +199,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589371358719" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589609446362" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -134,36 +221,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThreeDimensionalArray">
-    <configuration name="ArrayMove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmz.zrw.ArrayMove" />
-      <module name="workday6" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dmz.zrw.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MatrixMultiplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmz.zz.MatrixMultiplication" />
-      <module name="workday7" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dmz.zz.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmz.zrw.Test" />
-      <module name="workday6" />
+      <option name="MAIN_CLASS_NAME" value="com.cskaoyan.b.Test" />
+      <module name="workday10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cskaoyan.b.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Work1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmz.zrw.Work1" />
+      <module name="workday9" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.dmz.zrw.*" />
@@ -174,39 +248,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmz.zrw.Test2" />
-      <module name="workday6" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dmz.zrw.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreeDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmz.zz.ThreeDimensionalArray" />
-      <module name="workday7" />
+    <configuration name="Work1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmz.zz.Work1" />
+      <module name="workday10" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.dmz.zz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Work2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Work2" />
+      <module name="workday8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Work3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Work3" />
+      <module name="workday8" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ThreeDimensionalArray" />
-        <item itemvalue="Application.MatrixMultiplication" />
-        <item itemvalue="Application.Test2" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ArrayMove" />
+        <item itemvalue="Application.Work1 (2)" />
+        <item itemvalue="Application.Work1 (1)" />
+        <item itemvalue="Application.Work3" />
+        <item itemvalue="Application.Work2" />
       </list>
     </recent_temporary>
   </component>
@@ -235,17 +310,20 @@
       <workItem from="1589203199271" duration="373000" />
       <workItem from="1589284010913" duration="4748000" />
       <workItem from="1589365704373" duration="4839000" />
+      <workItem from="1589373245700" duration="2000" />
+      <workItem from="1589460103724" duration="606000" />
+      <workItem from="1589462882372" duration="107000" />
+      <workItem from="1589463167296" duration="7146000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31455000" />
+    <option name="totallyTimeSpent" value="39316000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="740" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24071082" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25686592" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -264,7 +342,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32894737" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3287037" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -406,6 +484,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../workday7/src/com/dmz/zz/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../workday7/src/com/dmz/zz/MatrixMultiplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="43" column="48" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../workday7/src/com/dmz/zz/ThreeDimensionalArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -413,17 +505,100 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../workday7/src/com/dmz/zz/MatrixMultiplication.java">
+    <entry file="file://$PROJECT_DIR$/../workday8/workday8.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../workday3/workday3.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../workdaay8/workdaay8.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../workdaay8/src/com/dmz/zz/Work1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="43" column="48" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../workday7/src/com/dmz/zz/Test.java">
+    <entry file="file://$PROJECT_DIR$/../homework/homework.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../workday8/src/Work2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../workday8/src/Work3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../workday8/src/Work1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../workday9/src/com/dmz/zrw/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../workday9/src/com/dmz/zrw/Work1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="54" column="6" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../workday10/src/com/cskaoyan/b/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../workday10/src/com/cskaoyan/b/MyClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding>
+            <element signature="e#72#73#0" expanded="true" />
+            <element signature="e#112#113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../workday10/src/com/cskaoyan/a/MyClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#71#72#0" expanded="true" />
+            <element signature="e#92#93#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../workday10/src/com/dmz/zz/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../workday10/src/com/dmz/zz/Work1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-47">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -479,7 +654,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Day5</last-edited>
+          <last-edited>homework</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

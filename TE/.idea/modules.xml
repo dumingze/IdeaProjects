@@ -3,11 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TE.iml" filepath="$PROJECT_DIR$/TE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday10/workday10.iml" filepath="$PROJECT_DIR$/../workday10/workday10.iml" />
       <module fileurl="file://$PROJECT_DIR$/../workday3/workday3.iml" filepath="$PROJECT_DIR$/../workday3/workday3.iml" />
       <module fileurl="file://$PROJECT_DIR$/../workday4/workday4.iml" filepath="$PROJECT_DIR$/../workday4/workday4.iml" />
       <module fileurl="file://$PROJECT_DIR$/../workday5/workday5.iml" filepath="$PROJECT_DIR$/../workday5/workday5.iml" />
       <module fileurl="file://$PROJECT_DIR$/../workday6/workday6.iml" filepath="$PROJECT_DIR$/../workday6/workday6.iml" />
       <module fileurl="file://$PROJECT_DIR$/../workday7/workday7.iml" filepath="$PROJECT_DIR$/../workday7/workday7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday8/workday8.iml" filepath="$PROJECT_DIR$/../workday8/workday8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday9/workday9.iml" filepath="$PROJECT_DIR$/../workday9/workday9.iml" />
     </modules>
   </component>
 </project>
