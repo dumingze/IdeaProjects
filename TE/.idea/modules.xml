@@ -2,11 +2,60 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../EEWork1/EEWork1.iml" filepath="$PROJECT_DIR$/../EEWork1/EEWork1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../EEWork2/EEWork2.iml" filepath="$PROJECT_DIR$/../EEWork2/EEWork2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../EEWork3/EEWork3.iml" filepath="$PROJECT_DIR$/../EEWork3/EEWork3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../EEWork4/EEWork4.iml" filepath="$PROJECT_DIR$/../EEWork4/EEWork4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../EEWork5/EEWork5.iml" filepath="$PROJECT_DIR$/../EEWork5/EEWork5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../EEWork6/EEWork6.iml" filepath="$PROJECT_DIR$/../EEWork6/EEWork6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyserverTest/MyserverTest.iml" filepath="$PROJECT_DIR$/../MyserverTest/MyserverTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/TE.iml" filepath="$PROJECT_DIR$/TE.iml" />
       <module fileurl="file://$PROJECT_DIR$/../workday10/workday10.iml" filepath="$PROJECT_DIR$/../workday10/workday10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday11/workday11.iml" filepath="$PROJECT_DIR$/../workday11/workday11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday12/workday12.iml" filepath="$PROJECT_DIR$/../workday12/workday12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday13/workday13.iml" filepath="$PROJECT_DIR$/../workday13/workday13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday14/workday14.iml" filepath="$PROJECT_DIR$/../workday14/workday14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday15/workday15.iml" filepath="$PROJECT_DIR$/../workday15/workday15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday16/workday16.iml" filepath="$PROJECT_DIR$/../workday16/workday16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday17/workday17.iml" filepath="$PROJECT_DIR$/../workday17/workday17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday18/workday18.iml" filepath="$PROJECT_DIR$/../workday18/workday18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday19/workday19.iml" filepath="$PROJECT_DIR$/../workday19/workday19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday20/workday20.iml" filepath="$PROJECT_DIR$/../workday20/workday20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday21/workday21.iml" filepath="$PROJECT_DIR$/../workday21/workday21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday22/workday22.iml" filepath="$PROJECT_DIR$/../workday22/workday22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday23/workday23.iml" filepath="$PROJECT_DIR$/../workday23/workday23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday24/workday24.iml" filepath="$PROJECT_DIR$/../workday24/workday24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday25/workday25.iml" filepath="$PROJECT_DIR$/../workday25/workday25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday26/workday26.iml" filepath="$PROJECT_DIR$/../workday26/workday26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday27/workday27.iml" filepath="$PROJECT_DIR$/../workday27/workday27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday28/workday28.iml" filepath="$PROJECT_DIR$/../workday28/workday28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday29/workday29.iml" filepath="$PROJECT_DIR$/../workday29/workday29.iml" />
       <module fileurl="file://$PROJECT_DIR$/../workday3/workday3.iml" filepath="$PROJECT_DIR$/../workday3/workday3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday31Collection/workday31Collection.iml" filepath="$PROJECT_DIR$/../workday31Collection/workday31Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday32List/workday32List.iml" filepath="$PROJECT_DIR$/../workday32List/workday32List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday33SimpleListLRU/workday33SimpleListLRU.iml" filepath="$PROJECT_DIR$/../workday33SimpleListLRU/workday33SimpleListLRU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday34/workday34.iml" filepath="$PROJECT_DIR$/../workday34/workday34.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday35/workday35.iml" filepath="$PROJECT_DIR$/../workday35/workday35.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday36/workday36.iml" filepath="$PROJECT_DIR$/../workday36/workday36.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday37/workday37.iml" filepath="$PROJECT_DIR$/../workday37/workday37.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday38/workday38.iml" filepath="$PROJECT_DIR$/../workday38/workday38.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday39/workday39.iml" filepath="$PROJECT_DIR$/../workday39/workday39.iml" />
       <module fileurl="file://$PROJECT_DIR$/../workday4/workday4.iml" filepath="$PROJECT_DIR$/../workday4/workday4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday40/workday40.iml" filepath="$PROJECT_DIR$/../workday40/workday40.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday41/workday41.iml" filepath="$PROJECT_DIR$/../workday41/workday41.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday42/workday42.iml" filepath="$PROJECT_DIR$/../workday42/workday42.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday43/workday43.iml" filepath="$PROJECT_DIR$/../workday43/workday43.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday45/workday45.iml" filepath="$PROJECT_DIR$/../workday45/workday45.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday46/workday46.iml" filepath="$PROJECT_DIR$/../workday46/workday46.iml" />
       <module fileurl="file://$PROJECT_DIR$/../workday5/workday5.iml" filepath="$PROJECT_DIR$/../workday5/workday5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday52/workday52.iml" filepath="$PROJECT_DIR$/../workday52/workday52.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday53/workday53.iml" filepath="$PROJECT_DIR$/../workday53/workday53.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday54/workday54.iml" filepath="$PROJECT_DIR$/../workday54/workday54.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday55/workday55.iml" filepath="$PROJECT_DIR$/../workday55/workday55.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday56/workday56.iml" filepath="$PROJECT_DIR$/../workday56/workday56.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday57/workday57.iml" filepath="$PROJECT_DIR$/../workday57/workday57.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday58/workday58.iml" filepath="$PROJECT_DIR$/../workday58/workday58.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workday59/workday59.iml" filepath="$PROJECT_DIR$/../workday59/workday59.iml" />
       <module fileurl="file://$PROJECT_DIR$/../workday6/workday6.iml" filepath="$PROJECT_DIR$/../workday6/workday6.iml" />
       <module fileurl="file://$PROJECT_DIR$/../workday7/workday7.iml" filepath="$PROJECT_DIR$/../workday7/workday7.iml" />
       <module fileurl="file://$PROJECT_DIR$/../workday8/workday8.iml" filepath="$PROJECT_DIR$/../workday8/workday8.iml" />

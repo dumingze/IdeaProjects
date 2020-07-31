@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <form  action="/EEWork5/submitServlet" enctype="multipart/form-data"  method="post">
+        用户名：<input type="text" name="username" ><br>
+        密码:<input type="password" name="password"><br>
+        性别：男<input type="radio" name="gender" value="male">
+              女<input type="radio" name="gender" value="female"><br>
+        爱好:java<input type="checkbox" name="hobby" value="java">
+             c++<input type="checkbox" name="hobby" value="c++">
+             python<input type="checkbox" name="hobby" value="python"><br>
+        简介：<textarea name="description"></textarea><br>
+
+        头像:<input type="file" name="headimage"><br>
+        个人简历：<input type="file" name="resume"><br>
+        <input type="submit">
+    </form>
+</body>
+</html>

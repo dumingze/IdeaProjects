@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+        <script src="vue.js"></script>
+
+    <style>
+        select, button{
+            height: 30px;
+        }
+        input {
+            height: 24px;
+        }
+        div {
+            margin-bottom: 4px;
+        }
+        td {
+            width: 200px;
+            height: 30px;
+            text-align: center;
+        }
+
+        [colspan] {
+            background: #FF0000;
+        }
+
+    </style>
+</head>
+<body>
+
+<div id="root">
+<div>
+    <select id="select1"   v-model:value="firstMoneyType">
+        <option value="0">美元</option>
+        <option value="1">日元</option>
+        <option value="2">韩元</option>
+        <option value="3">人民币</option>
+        <option value="4">港元</option>
+        <option value="5">欧元</option>
+    </select>
+    <button @click="change">互换</button>
+    <select id="select2" v-model:value="secondMoneyType">
+        <option value="0">美元</option>
+        <option value="1">日元</option>
+        <option value="2">韩元</option>
+        <option value="3">人民币</option>
+        <option value="4">港元</option>
+        <option value="5">欧元</option>
+    </select>
+    数额:
+    <input  v-model:value="myMoneyNumber">
+    <button @click="f()">汇率换算</button>
+</div>
+
+<table border="1px">
+    <tr>
+        <td colspan="3">按汇率换算</td>
+    </tr>
+    <tr>
+        <td id="td11">
+            {{list[firstMoneyType]}}
+        </td>
+        <td>
+            汇率
+        </td>
+        <td  id="td13">
+            {{list[secondMoneyType]}}
+        </td>
+    </tr>
+    <tr>
+        <td  id="td21">
+            {{myMoneyNumber}}
+        </td>
+        <td  id="td22" >
+          <!--  {{listrate[firstMoneyType]/listrate[secondMoneyType]}}-->
+            {{rate}}
+        </td>
+        <td  id="td23">
+            {{resultMoney}}
+        </td>
+    </tr>
+</table>
+</div>
+<script>
+
+  /*  console.log("-111")
+    var select1 =  document.getElementById('select1').value
+    console.log(select1)
+
+    // 那我应该从哪里拿呢...
+    var list = ['美元', '日元', '韩元', '人民币', '港元', '欧元']
+    var listrate = [1,  100,   1000,    7,         8,     0.9]
+
+    function change1() {
+        var select1 =  document.getElementById('select1')
+        var select2 =  document.getElementById('select2')
+        var mid = select1.value
+
+        select1.value = select2.value
+        select2.value = mid
+    }
+
+
+    function f() {
+        var select1 =  document.getElementById('select1').value
+        var select2 =  document.getElementById('select2').value
+        var inputNum = document.getElementById('inputNum')
+        console.log("------------------------------")
+        console.log(select1)
+
+        if (inputNum.value == ''){
+            return
+        }
+
+        var rate = listrate[select2]/listrate[select1]
+        var money = inputNum.value * rate
+        console.log(inputNum.value)
+
+        document.getElementById('td11').innerText = list[select1]
+        document.getElementById('td13').innerText = list[select2]
+
+        document.getElementById('td21').innerText = inputNum.value
+        document.getElementById('td22').innerText = rate
+        document.getElementById('td23').innerText = money
+
+    }*/
+
+
+  var list = ['美元', '日元', '韩元', '人民币', '港元', '欧元']
+  var listrate = [1,  100,   1000,    7,         8,     0.9]
+  new Vue({
+      el: '#root',
+      data: {
+          msg: '123',
+
+          myMoneyNumber:0,
+          firstMoneyType:0,
+          secondMoneyType:0,
+          list :['美元', '日元', '韩元', '人民币', '港元', '欧元'],
+          listrate :[1,100,1000,7,8,0.9],
+          rate:1,
+          resultMoney:0
+      },
+      methods: {
+          // 方法名 :   function关键字  () {方法体}
+          change: function () {
+              var temp=this.firstMoneyType;
+              this.firstMoneyType=this.secondMoneyType;
+              this.secondMoneyType=temp
+
+          },
+          f :function () {
+
+              this.rate=this.listrate[this.firstMoneyType]/this.listrate[this.secondMoneyType]
+              this.resultMoney=this.myMoneyNumber*this.rate
+
+          }
+      }
+  })
+
+
+</script>
+
+
+</body>
+</html>

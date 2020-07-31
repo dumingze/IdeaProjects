@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/王道培训的资料_前端第三部分/前端Day3_CSS_下午/代码/src/day3/css/css.iml" filepath="$USER_HOME$/Desktop/王道培训的资料_前端第三部分/前端Day3_CSS_下午/代码/src/day3/css/css.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/王道培训的资料_前端第三部分/前端Day1_HTML_下午/代码/src/day1/day1.iml" filepath="$USER_HOME$/Desktop/王道培训的资料_前端第三部分/前端Day1_HTML_下午/代码/src/day1/day1.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/王道培训的资料_前端第三部分/前端Day4_JS&amp;DOM_下午/代码/src/day4/day4.iml" filepath="$USER_HOME$/Desktop/王道培训的资料_前端第三部分/前端Day4_JS&amp;DOM_下午/代码/src/day4/day4.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/王道培训的资料_前端第三部分/前端Day5_Vue1_上午/代码/src/day5/day5.iml" filepath="$USER_HOME$/Desktop/王道培训的资料_前端第三部分/前端Day5_Vue1_上午/代码/src/day5/day5.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/王道培训的资料_前端第三部分/前端Day6_Vue2_下午/代码/src/day6/day6.iml" filepath="$USER_HOME$/Desktop/王道培训的资料_前端第三部分/前端Day6_Vue2_下午/代码/src/day6/day6.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/王道培训的资料_前端第三部分/前端Day7_Vue3_下午/代码/src/day7/day7.iml" filepath="$USER_HOME$/Desktop/王道培训的资料_前端第三部分/前端Day7_Vue3_下午/代码/src/day7/day7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundationOfWebFront.iml" filepath="$PROJECT_DIR$/foundationOfWebFront.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<table cellspacing="10" >
+    <tr>
+        <td>注册邮箱:</td>
+        <td><input></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>你还可以使用手机注册</td>
+    </tr>
+    <tr>
+        <td>创建密码:</td>
+        <td><input></td>
+    </tr>
+    <tr>
+        <td>真实姓名:</td>
+        <td><input></td>
+    </tr>
+    <tr>
+        <td align="right">性别:</td>
+        <td>
+            <input type="radio" value="1" name="aaa">男
+            <input type="radio" value="2" name="aaa">女
+        </td>
+    </tr>
+    <tr>
+        <td align="right">生日:</td>
+        <td>
+            <select>
+                <option>2000</option>
+                <option>2000</option>
+                <option>2000</option>
+                <option>2000</option>
+            </select>年
+            <select>
+                <option>00</option>
+                <option>00</option>
+                <option>00</option>
+                <option>00</option>
+            </select>月
+            <select>
+                <option>00</option>
+                <option>00</option>
+                <option>00</option>
+                <option>00</option>
+            </select>日
+        </td>
+    </tr>
+    <tr>
+        <td align="right">我正在:</td>
+        <td>
+            <select>
+                <option>学习</option>
+                <option>睡觉</option>
+            </select>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>
+            <img  id="imageCode" src="./verycode.gif"> &nbsp <span onclick="changeImage()">看不清.换一张?</span>
+        </td>
+    </tr>
+    <tr>
+        <td align="right">验证码:</td>
+        <td><input id="input_value"></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>
+            <img onclick="checkCode()"src="btn_reg.gif">
+        </td>
+    </tr>
+</table>
+
+<script>
+
+    var listImage=["1111.png","1234.png","2222.png","3333.png","4567.png"]
+    var listCode=["1111","1234","2222","3333","4567"]
+    var mid=-1
+    function changeImage() {
+        var bool=true
+        while (bool) {
+            var number = Math.floor(Math.random()*listImage.length);
+            if (mid==number){}
+            else {
+                bool=false
+                mid=number
+            }
+        }
+
+        var imageCode = document.getElementById("imageCode")
+        imageCode.src=listImage[mid]
+
+
+    }
+    function checkCode() {
+        var inputStr = document.getElementById("input_value").value;
+        if(mid==-1){
+            if (inputStr=="bnksu"){alert("验证码正确")}
+            else { alert("验证码错误")}
+            return
+        }
+        if (inputStr==listCode[mid]){
+            alert("验证码正确")
+        } else {
+
+        }
+
+
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+
+        td{
+
+            width: 200px;
+            height: 30px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+<div>
+    <select  id="select1" style="width: 100px ;height: 25px">
+        <option value="5">美元</option>
+        <option value="1">人民币</option>
+        <option value="2">日元</option>
+        <option value="3">英镑</option>
+        <option value="4">欧元</option>
+    </select>
+    <button onclick="changeMoney">互换</button>
+    <select  style="width: 100px ;height: 25px">
+        <option>美元</option><option>人民币</option><option>日元</option><option>英镑</option><option>欧元</option>
+    </select>
+    <span>数额</span>
+    <input class="input_Money" style="width: 200px ;height: 20px">
+    <button>按汇率换算</button>
+</div>
+<div style=" margin-top:5px;width: 600px;background: red;text-align: center">按当前汇率转换结果</div>
+
+
+<!--    <table class="show_table" >
+        <tr>
+            <td>美元</td>
+            <td>汇率</td>
+            <td>日元</td>
+        </tr>
+
+        <tr>
+            <td>100</td>
+            <td>100</td>
+            <td>10000</td>
+        </tr>
+    </table>-->
+
+    <table border="1px">
+        <tr>
+            <!-- <td colspan="3">按当前汇率兑换结果</td>-->
+        </tr>
+        <tr>
+            <td id="td11">美元</td>
+            <td>汇率</td>
+            <td id="td13">人民币</td>
+        </tr>
+        <tr>
+            <td id="td21">100</td>
+            <td id="td22">7</td>
+            <td id="td23">700</td>
+        </tr>
+    </table>
+
+</body>
+<script>
+    var select = document.getElementById('select1')
+
+  console.log(select1)
+    console.log(select1.innerText)
+
+
+console.log(select);
+</script>
+</html>

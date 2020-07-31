@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+
+        var  list=['张三','李四','王五','赵六']
+       function changeName(){
+           if (list.length<1){
+               alert("没有用户可供选择")
+               return
+           }
+           var div_dispaly = document.getElementById("div_dispaly");
+          var number = Math.floor( Math.random()*list.length);
+          console.log(number)
+
+
+         div_dispaly.innerText=list[number]
+           list.splice(number,1)
+
+        }
+
+    </script>
+</head>
+<body>
+<div id="div_dispaly">
+    未定
+</div>
+
+<button onclick="changeName()">随机点名</button>
+</body>
+</html>
